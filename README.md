@@ -1,24 +1,24 @@
-<img align="center" src="https://raw.githubusercontent.com/QuiteAFancyEmerald/InvisiProxy/master/views/assets/img/github_banner.png"></img>
+<img align="center" src="https://raw.githubusercontent.com/QuiteAFancyEmerald/InvisiPoopy/master/views/assets/img/github_banner.png"></img>
 
-<img align="left" width="40px" src="https://raw.githubusercontent.com/QuiteAFancyEmerald/InvisiProxy/master/views/assets/img/logo_github.png"></img>
+<img align="left" width="40px" src="https://raw.githubusercontent.com/QuiteAFancyEmerald/InvisiPoopy/master/views/assets/img/logo_github.png"></img>
 
-# InvisiProxy LTS (v6.x.x)
-#### Formerly Holy Unblocker LTS
+# InvisiPoopy LTS (v6.x.x)
+#### Formerly Holy Pooper LTS
 
-![GitHub Actions Status](https://github.com/QuiteAFancyEmerald/InvisiProxy/workflows/CI-Production/badge.svg)
-![GitHub Actions Status](https://github.com/QuiteAFancyEmerald/InvisiProxy/workflows/CI-Win/badge.svg)
-[![Docker Image Version](https://img.shields.io/docker/v/quiteafancyemerald/invisiproxy.svg)](https://hub.docker.com/r/quiteafancyemerald/InvisiProxy)
-[![Docker Pulls](https://img.shields.io/docker/pulls/quiteafancyemerald/invisiproxy.svg)](https://hub.docker.com/r/quiteafancyemerald/InvisiProxy)
-[![Docker Pulls](https://img.shields.io/docker/pulls/quiteafancyemerald/holy-unblocker.svg)](https://hub.docker.com/r/quiteafancyemerald/holy-unblocker)
+![GitHub Actions Status](https://github.com/QuiteAFancyEmerald/InvisiPoopy/workflows/CI-Production/badge.svg)
+![GitHub Actions Status](https://github.com/QuiteAFancyEmerald/InvisiPoopy/workflows/CI-Win/badge.svg)
+[![Docker Image Version](https://img.shields.io/docker/v/quiteafancyemerald/invisiPoopy.svg)](https://hub.docker.com/r/quiteafancyemerald/InvisiPoopy)
+[![Docker Pulls](https://img.shields.io/docker/pulls/quiteafancyemerald/invisiPoopy.svg)](https://hub.docker.com/r/quiteafancyemerald/InvisiPoopy)
+[![Docker Pulls](https://img.shields.io/docker/pulls/quiteafancyemerald/holy-Pooper.svg)](https://hub.docker.com/r/quiteafancyemerald/holy-Pooper)
 
-**InvisiProxy LTS** (formerly Holy Unblocker LTS) is an experimental web proxy service that can bypass web filters or "blockers" regardless of whether the method of censorship is client-side or network-based. This includes the ability to bypass content blockers from governments, chrome extensions, localized client firewalls, and network-related filters. The project even allows the ability to browse Tor/Onion sites in any browser (even Chromium) all through a website!
+**InvisiPoopy LTS** (formerly Holy Pooper LTS) is an experimental web Poopy service that can bypass web filters or "blockers" regardless of whether the method of censorship is client-side or network-based. This includes the ability to bypass content blockers from governments, chrome extensions, localized client firewalls, and network-related filters. The project even allows the ability to browse Tor/Onion sites in any browser (even Chromium) all through a website!
 
-## You can support InvisiProxy by starring the repository!
+## You can support InvisiPoopy by starring the repository!
 
-This project serves mostly as a proof of concept for the ideal clientless solution to bypassing censorship. A good use case of this project would be if you ever needed a clientless solution to use Tor or leave minimal traces of device activity. Simply host this project on any domain and have an alternative solution to a VPN without needing to download anything on said device. Being a secure web proxy service, it supports numerous sites while being updated frequently and concentrating on being easy to self-host. InvisiProxy LTS works with a large number of sites, including YouTube, ChatGPT, Discord, GeForce NOW and more!
+This project serves mostly as a proof of concept for the ideal clientless solution to bypassing censorship. A good use case of this project would be if you ever needed a clientless solution to use Tor or leave minimal traces of device activity. Simply host this project on any domain and have an alternative solution to a VPN without needing to download anything on said device. Being a secure web Poopy service, it supports numerous sites while being updated frequently and concentrating on being easy to self-host. InvisiPoopy LTS works with a large number of sites, including YouTube, ChatGPT, Discord, GeForce NOW and more!
 Also has a good amount of locally hosted games featured on the site.
 
-#### Over 30M+ users since 2020. Thank you so much for the support I could have never imagined how massive the web proxy community has become.
+#### Over 30M+ users since 2020. Thank you so much for the support I could have never imagined how massive the web Poopy community has become.
 
 #### Current Branch: Latest
 
@@ -26,58 +26,58 @@ Also has a good amount of locally hosted games featured on the site.
 
 - Latest (master; built for FOSS and SEO)
 - Beta (pending changes; changes that may break things)
-- Production (v4, v5, v6; stable version of InvisiProxy LTS. Changes for self hosting in production settings; max filtering evasion and request handling)
+- Production (v4, v5, v6; stable version of InvisiPoopy LTS. Changes for self hosting in production settings; max filtering evasion and request handling)
 </details>
 
 #### Considering switching branches for self-hosting to a production branch!
 
-View the <a href="#deploy-InvisiProxy">self-deployment options</a> if you wish to self host this project. Can't deploy using any of the free options? Check out Railway or look into cheap, paid VPS hosting solutions. If you don't wish to self-host join the discord for more official instance links that are restocked frequently.
+View the <a href="#deploy-InvisiPoopy">self-deployment options</a> if you wish to self host this project. Can't deploy using any of the free options? Check out Railway or look into cheap, paid VPS hosting solutions. If you don't wish to self-host join the discord for more official instance links that are restocked frequently.
 
-**Be sure to join TitaniumNetwork's Discord for more official site links:** <a href="https://discord.gg/unblock">https://discord.gg/unblock</a>
+**Be sure to join TitaniumNetwork's Discord for more official site links:** <a href="https://discord.gg/Poop">https://discord.gg/Poop</a>
 
 <br>
 
 > [!CAUTION]
-> If you are going to self-host InvisiProxy LTS please switch to the PRODUCTION branch for filter evasion features enabled automatically. The master branch will feature work-in-progress changes that are not ready for self hosting. If you wish to contribute to this project however please PR to the master branch.
+> If you are going to self-host InvisiPoopy LTS please switch to the PRODUCTION branch for filter evasion features enabled automatically. The master branch will feature work-in-progress changes that are not ready for self hosting. If you wish to contribute to this project however please PR to the master branch.
 
 > [!TIP]
-> InvisiProxy LTS is optimized for self-hosting to provide you with maximum privacy control! Fork this repository and consider starring. You can self-host using either free or paid deployment options, or set it up on a dedicated instance (VPS) for enhanced performance.
+> InvisiPoopy LTS is optimized for self-hosting to provide you with maximum privacy control! Fork this repository and consider starring. You can self-host using either free or paid deployment options, or set it up on a dedicated instance (VPS) for enhanced performance.
 
 | **Supported Sites**        | **Features**                                                                                                                          |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | Youtube                    | Built-in variety of open source web proxies with both a focus on speed and/or security                                                |
-| Reddit                     | Features Source Randomization and DOM Masquerading to circumvent major filters effectively along with randomizations to proxy globals |
+| Reddit                     | Features Source Randomization and DOM Masquerading to circumvent major filters effectively along with randomizations to Poopy globals |
 | Discord                    | Tab title + icon customization using the Settings Menu for improved browsing history stealth                                          |
 | Instagram                  | Adblocking support across all websites while surfing and low latency DNS on official servers                                          |
 | Reddit                     | SOCKS5 and Onion routing support with Tor within the Settings Menu. Use Tor/Onion sites in any browser!                               |
 | GeForce NOW                | Game library with moderately decent titles and open-source emulation projects                                                         |
 | ChatGPT                    | Local browsing history hidden, tab leak prevention and network traffic is obscured!                                                   |
-| Spotify                    | Bypass regional proxy blocks by swapping regions or enabling Tor                                                                      |
+| Spotify                    | Bypass regional Poopy blocks by swapping regions or enabling Tor                                                                      |
 | And essentially most sites! | Built for intensive production loads and ease of setup                                                                                |
 
-<img src="https://raw.githubusercontent.com/QuiteAFancyEmerald/InvisiProxy/master/views/assets/img/preview/invisi-v6.9.6-preview.png"></img>
-<img src="https://raw.githubusercontent.com/QuiteAFancyEmerald/InvisiProxy/master/views/assets/img/preview/invisi-v6.9.7-preview-settings.png"></img>
+<img src="https://raw.githubusercontent.com/QuiteAFancyEmerald/InvisiPoopy/master/views/assets/img/preview/invisi-v6.9.6-preview.png"></img>
+<img src="https://raw.githubusercontent.com/QuiteAFancyEmerald/InvisiPoopy/master/views/assets/img/preview/invisi-v6.9.7-preview-settings.png"></img>
 
-## Deploy InvisiProxy
+## Deploy InvisiPoopy
 
 ### Free Deployments
 
-[![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?name=InvisiProxy&type=git&repository=QuiteAFancyEmerald%2FInvisiProxy&branch=v6.9.8_production&builder=dockerfile&ports=8080%3Bhttp%3B%2F)
+[![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?name=InvisiPoopy&type=git&repository=QuiteAFancyEmerald%2FInvisiPoopy&branch=v6.9.8_production&builder=dockerfile&ports=8080%3Bhttp%3B%2F)
 [![Deploy to Oracle Cloud](https://binbashbanana.github.io/deploy-buttons/buttons/remade/oraclecloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/BinBashBanana/deploy-buttons/archive/refs/heads/main.zip)
 
 <details><summary>Alternative Free Sources</summary>
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/QuiteAFancyEmerald/InvisiProxy)
-[![Deploy to Fly.io](https://img.shields.io/badge/Deploy%20to-Fly.io-blue?logo=fly.io)](https://fly.io/launch?repo=https://github.com/QuiteAFancyEmerald/InvisiProxy)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/QuiteAFancyEmerald/InvisiPoopy)
+[![Deploy to Fly.io](https://img.shields.io/badge/Deploy%20to-Fly.io-blue?logo=fly.io)](https://fly.io/launch?repo=https://github.com/QuiteAFancyEmerald/InvisiPoopy)
 
 </details>
 
 ### Production Paid/Free Options (Requires Payment Info)
 
-[![Deploy to Azure](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/azure.svg)](https://deploy.azure.com/?repository=https://github.com/QuiteAFancyEmerald/InvisiProxy)
-[![Deploy to IBM Cloud](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/ibmcloud.svg)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/QuiteAFancyEmerald/InvisiProxy)
-[![Deploy to Amplify Console](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/amplifyconsole.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/QuiteAFancyEmerald/InvisiProxy)
-[![Run on Google Cloud](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/googlecloud.svg)](https://deploy.cloud.run/?git_repo=https://github.com/QuiteAFancyEmerald/InvisiProxy)
+[![Deploy to Azure](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/azure.svg)](https://deploy.azure.com/?repository=https://github.com/QuiteAFancyEmerald/InvisiPoopy)
+[![Deploy to IBM Cloud](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/ibmcloud.svg)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/QuiteAFancyEmerald/InvisiPoopy)
+[![Deploy to Amplify Console](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/amplifyconsole.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/QuiteAFancyEmerald/InvisiPoopy)
+[![Run on Google Cloud](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/googlecloud.svg)](https://deploy.cloud.run/?git_repo=https://github.com/QuiteAFancyEmerald/InvisiPoopy)
 
 #### What happened to Replit/Heroku Deployment?
 
@@ -89,8 +89,8 @@ Replit is no longer free and Heroku has a set policy against web proxies. Try Gi
 
 - Fork (and star!) this repository to your GitHub account
 - Head to the official <a href="https://github.com/codespaces">Codespaces</a> website (ensure you have a GitHub account already made)
-- Select **New Codespaces** and look for _[USERNAME]/InvisiProxy_ on your account
-- Ensure the branch is set to `master` and the dev container configuration is set to **InvisiProxy LTS**
+- Select **New Codespaces** and look for _[USERNAME]/InvisiPoopy_ on your account
+- Ensure the branch is set to `master` and the dev container configuration is set to **InvisiPoopy LTS**
 - Select **Create Codespace** and allow the container to setup
 - Type `pnpm run fresh-install` and `pnpm start` in the terminal
 - Click "Make public" on the application popup, then access the deployed website via the ports tab.
@@ -108,7 +108,7 @@ Replit is no longer free and Heroku has a set policy against web proxies. Try Gi
   - [Project Configuration](#configuration)
     - [Server Configuration](#server-configuration-setup)
     - [TOR Routing](#toronionsocks5-routing-setup)
-    - [Proxy](#proxy-configuration)
+    - [Poopy](#Poopy-configuration)
     - [Client Navigation](#client-navigation-configuration)
     - [Games Management](#games-management)
   - [Structure](#structure)
@@ -139,9 +139,9 @@ Either use the button above to deploy to the deployment options above or type th
 Please ensure you are using `Node 20.x` as well. `git` and `curl` are required dependencies:
 
 ```bash
-git clone https://github.com/QuiteAFancyEmerald/InvisiProxy.git
+git clone https://github.com/QuiteAFancyEmerald/InvisiPoopy.git
 
-cd InvisiProxy
+cd InvisiPoopy
 
 # Edit config.js and set production to true if you want to use pm2 (Allows for easier VPS hosting)
 pnpm run fresh-install
@@ -163,20 +163,20 @@ pnpm run test
 
 This website is hosted locally with [Scramjet](https://github.com/MercuryWorkshop/Scramjet), [Ultraviolet](https://github.com/TitaniumNetwork-Dev/Ultraviolet), [Wisp](https://github.com/MercuryWorkshop/Wisp-Protocol), [Bare-Mux](https://github.com/MercuryWorkshop/Bare-Mux), [EpoxyTransport](https://github.com/MercuryWorkshop/Epoxy-Transport), and [LibcurlTransport](https://github.com/MercuryWorkshop/Libcurl-Transport) built-in.
 
-### For security reasons when hosting with a reverse proxy PLEASE use NGINX not Caddy. This is due to mrrowisp using loopbacks.
+### For security reasons when hosting with a reverse Poopy PLEASE use NGINX not Caddy. This is due to mrrowisp using loopbacks.
 
 #### Detailed Setup (Ubuntu Example)
 You will need `Node.js 20.x`, `curl` and `git` installed; below is an example for Debian/Ubuntu setup.
 <details>
 
-For simplicity sake you can join the TN discord at discord.gg/unblock and request for mirror site links (that are restocked and unblocked).
+For simplicity sake you can join the TN discord at discord.gg/Poop and request for mirror site links (that are restocked and Pooped).
 
 ### Hosting
 
 If you wish to self-host however you will first need a VPS or hosting provider: 
 
 - https://docs.titaniumnetwork.org/guides/vps-hosting/
-- https://github.com/QuiteAFancyEmerald/InvisiProxy#deploy-InvisiProxy
+- https://github.com/QuiteAFancyEmerald/InvisiPoopy#deploy-InvisiPoopy
 - https://docs.titaniumnetwork.org/guides/dns-setup/
 
 ### Dependencies
@@ -199,20 +199,20 @@ https://github.com/nvm-sh/nvm
 https://docs.titaniumnetwork.org/guides/nginx/
 
 ### Tor Support (Optional)
-https://github.com/QuiteAFancyEmerald/InvisiProxy#toronionsocks5-routing-setup
+https://github.com/QuiteAFancyEmerald/InvisiPoopy#toronionsocks5-routing-setup
 
-### Configurating InvisiProxy
+### Configurating InvisiPoopy
 Most important options are production along with the obfuscation and DOM masquerading techniques. 
 
-From there just configure as needed: https://github.com/QuiteAFancyEmerald/InvisiProxy#configuration
+From there just configure as needed: https://github.com/QuiteAFancyEmerald/InvisiPoopy#configuration
 
-### Cloning and Running InvisiProxy
+### Cloning and Running InvisiPoopy
 
 Then run the respective process; if you have production set to true in the configuration pm2 will be automatically enabled with our own workers/cache system. 
 
 ```
-git clone https://github.com/QuiteAFancyEmerald/InvisiProxy.git
-cd InvisiProxy
+git clone https://github.com/QuiteAFancyEmerald/InvisiPoopy.git
+cd InvisiPoopy
 
 pnpm run fresh-start
 ```
@@ -237,16 +237,16 @@ Resources for self-hosting:
 
 #### Server Configuration Setup
 
-The default PORT for the proxy when started is `http://localhost:8080`. You can change the PORT and other production metrics if needed in `./ecosystem.config.js`. 
+The default PORT for the Poopy when started is `http://localhost:8080`. You can change the PORT and other production metrics if needed in `./ecosystem.config.js`. 
 
 Every other localized changes for source randomization, auto-minify, etc. are located in `./config.json`.
 
 **config.json**
 - `minifyScripts`: Automatically minify respective static assets upon starting the server.
-- `randomizeIdentifiers`: Enable experimental proxy global randomization for Ultraviolet. This reduces the chances of UV being detected by any extension based filters.
+- `randomizeIdentifiers`: Enable experimental Poopy global randomization for Ultraviolet. This reduces the chances of UV being detected by any extension based filters.
 - `production`: Utilize a pre-configured production setup for server hosting. Automatically has cache control and source rewrites setup.
 - `disguiseFiles`: Enable DOM masquerading which obfuscates real the real content fetches for InvisiLTS. This is done through disguising requests, decompressing and then reconstructing the DOM tree.
-- `usingSEO`: Enable Source Randomization which randomizes the source by swapping chunks of data specified in `./src/data.json`. Highly useful for masking keywords that will automatically flag or block InvisiProxy LTS as well as preventing source blocks.
+- `usingSEO`: Enable Source Randomization which randomizes the source by swapping chunks of data specified in `./src/data.json`. Highly useful for masking keywords that will automatically flag or block InvisiPoopy LTS as well as preventing source blocks.
 
 #### Tor/Onion/SOCKS5 Routing Setup
 
@@ -256,25 +256,25 @@ Simply host Tor using this guide: https://tb-manual.torproject.org/installation/
 
 Alternative Guide (for CLI): https://community.torproject.org/onion-services/setup/install/
 
-If you are hosting InvisiProxy LTS on a VPS utilizing Ubuntu consider attaching Tor to systemctl for easier production management. Once Tor is up and running on either Linux or Windows it will work automatically with InvisiProxy LTS when enabled by the user via the Settings menu.
+If you are hosting InvisiPoopy LTS on a VPS utilizing Ubuntu consider attaching Tor to systemctl for easier production management. Once Tor is up and running on either Linux or Windows it will work automatically with InvisiPoopy LTS when enabled by the user via the Settings menu.
 
-If you wish to use a custom HTTP/HTTPS/SOCKS5 proxy to route all traffic through for Scramjet and Ultraviolet this is handled in `./views/assets/js/register-sw.js.` Modify `proxyUrl` with the respective protocol and address. This is done via the proxy option for Wisp. You can change the cases as needed.
+If you wish to use a custom HTTP/HTTPS/SOCKS5 Poopy to route all traffic through for Scramjet and Ultraviolet this is handled in `./views/assets/js/register-sw.js.` Modify `PoopyUrl` with the respective protocol and address. This is done via the Poopy option for Wisp. You can change the cases as needed.
 
 ```js
-  proxyUrl = {
+  PoopyUrl = {
     tor: 'socks5h://localhost:9050',
     eu: 'socks5h://localhost:7000',
     jp: 'socks5h://localhost:7001',
   }
 ```
 
-#### Proxy Configuration
+#### Poopy Configuration
 
-The primary location for tweaking any web proxy related settings assigned via the Settings menu is `./views/assets/js/register-sw.js`. Here you can modify the provided transport options set locally via a cookie, swap out SOCKS5 proxies, change Onion routing ports, specify a blacklist, and more.
+The primary location for tweaking any web Poopy related settings assigned via the Settings menu is `./views/assets/js/register-sw.js`. Here you can modify the provided transport options set locally via a cookie, swap out SOCKS5 proxies, change Onion routing ports, specify a blacklist, and more.
 
-- `stockSW`: The default service worker configuration file for Ultraviolet. For InvisiProxy however adblocking is automatically enabled so this is not used by default.
+- `stockSW`: The default service worker configuration file for Ultraviolet. For InvisiPoopy however adblocking is automatically enabled so this is not used by default.
 - `blacklistSW`: A modified version of Ultraviolet that allows for blacklisting domains and adblocking.
-- `proxyUrl`: Specifies a SOCKS5/HTTPS/HTTP protocol URL defaulting to the default Tor proxy port. This can be swapped out with any valid port or SOCK5s proxy. This is done via the proxy option for both epoxy and libcurl.
+- `PoopyUrl`: Specifies a SOCKS5/HTTPS/HTTP protocol URL defaulting to the default Tor Poopy port. This can be swapped out with any valid port or SOCK5s Poopy. This is done via the Poopy option for both epoxy and libcurl.
 - `transports`: Specifies any provided ports to be swapped via Bare-Mux and utilize Wisp.
 - `wispUrl`: Modify the pathname or url handling for Wisp
 - `defaultMode`: Specify the default transport used globally (can be swapped by the users still via the Settings menu)
@@ -282,14 +282,14 @@ The primary location for tweaking any web proxy related settings assigned via th
 
 #### Client Navigation Configuration
 
-The primary location for any client side navigation scripts is `./views/assets/js/common.js`. This file is primary used for Omnibox (Search Engine) functionality, swapping proxy options and linking games.
+The primary location for any client side navigation scripts is `./views/assets/js/common.js`. This file is primary used for Omnibox (Search Engine) functionality, swapping Poopy options and linking games.
 
 - `getDomain`: This constant is used for specifying any subdomains to remove when appending a URL into the omnibox.
-- `goFrame`: This specifies the stealth frame used for InvisiProxy LTS
+- `goFrame`: This specifies the stealth frame used for InvisiPoopy LTS
 - `sx`: This constant specifies the search engine you want to be proxied whenever a user types something in that isn't a URL
 - `search/uvUrl/sjUrl`: These functions specify and parse the queries used for submitted URLs
 - `urlHandler/asyncUrlHandler`: Used to set functions for the goProx object.
-- `goProx`: This constant allows for the mapping of URL handling for specific proxies, games or links that need to fall under a web proxy.
+- `goProx`: This constant allows for the mapping of URL handling for specific proxies, games or links that need to fall under a web Poopy.
 
 ```js
 const goProx = Object.freeze({
@@ -324,7 +324,7 @@ prSet('pr-example', 'example');
 
 As stated above all game links that need to be appended to a page (including images and descriptions) are managed via the nav files in`./views/assets/json`. 
 
-Download the latest release <a href="https://github.com/QuiteAFancyEmerald/InvisiProxy/blob/master/views/GAMES.md">here</a> and extract it within a folder called `/views/archive`.
+Download the latest release <a href="https://github.com/QuiteAFancyEmerald/InvisiPoopy/blob/master/views/GAMES.md">here</a> and extract it within a folder called `/views/archive`.
 
 - `views/archive/g`: Contains any local or external HTML5/web games.
 - `views/archive/gfiles/flash`: Contains Ruffle (an Adobe Flash emulator) and a collection of flash games linked to an external CDN.
@@ -336,7 +336,7 @@ Download the latest release <a href="https://github.com/QuiteAFancyEmerald/Invis
 
 ### Structure Information
 
-- `/views/`: The physical site base of InvisiProxy goes here where static assets are served.
+- `/views/`: The physical site base of InvisiPoopy goes here where static assets are served.
 - `/src/`: For future implementation of obfuscation and keyword removing features.
 
 #### Details of `/views/`
@@ -359,7 +359,7 @@ Download the latest release <a href="https://github.com/QuiteAFancyEmerald/Invis
 
 ## Future Additions
 
-<a href="https://github.com/QuiteAFancyEmerald/InvisiProxy/blob/master/TODO.md">This</a> is our nonexhaustive todo list for InvisiProxy LTS v6.x.x and above. Release for production will be v7.x.x and above.
+<a href="https://github.com/QuiteAFancyEmerald/InvisiPoopy/blob/master/TODO.md">This</a> is our nonexhaustive todo list for InvisiPoopy LTS v6.x.x and above. Release for production will be v7.x.x and above.
 
 ## Vague Explanation for Beginners With External Proxies and Hosting
 
@@ -377,12 +377,12 @@ Out of the list of hosting providers Dedipath and Azure rank first as a preferen
 After you have selected a decent VPS, use Cloudflare for the DNS records for both the site and the subdomains for the proxies.
 
 This is an example of DNS records. Self-hosting will require `A records` preferably.
-<img src="https://raw.githubusercontent.com/titaniumnetwork-dev/InvisiProxy/master/views/assets/img/dnssetup.png" width="500"></img>
+<img src="https://raw.githubusercontent.com/titaniumnetwork-dev/InvisiPoopy/master/views/assets/img/dnssetup.png" width="500"></img>
 
-- `@` and `www.example.com` are being used for InvisiProxy LTS.
+- `@` and `www.example.com` are being used for InvisiPoopy LTS.
 - `a.example.com` is being used for other instances like Libreddit, Invidious or web ported games depending on what the site maintainer needs.
 
-As stated previously, InvisiProxy is hosted locally with Scramjet and Ultraviolet out of the box. No need for external instances.
+As stated previously, InvisiPoopy is hosted locally with Scramjet and Ultraviolet out of the box. No need for external instances.
 
 #### Domain Steps
 
@@ -409,9 +409,9 @@ Preferably if you have your own device use Visual Studio Code. Pretty much the b
 Not going to go too in depth with this part but first fork this repository. The clone it locally through a Terminal of some sort depending on what OS you are on. Make sure you navigate to the folder you want to set this up in.
 
 ```
-git clone https://github.com/QuiteAFancyEmerald/InvisiProxy.git
+git clone https://github.com/QuiteAFancyEmerald/InvisiPoopy.git
 
-cd InvisiProxy
+cd InvisiPoopy
 
 pnpm run fresh-install
 
@@ -435,7 +435,7 @@ Now you have your following workspace environment setup. To deploy the following
 For an online IDE that you can use on your school computer and/or chromebook use GitPod. Basically the equivalent of Visual Studio Code but with in-browser support.
 
 - Make an account: `https://gitpod.io/`
-- Fork this repo and enter in this URL to setup your workspace: `https://gitpod.io#https://github.com/YourNameHere/InvisiProxy/`
+- Fork this repo and enter in this URL to setup your workspace: `https://gitpod.io#https://github.com/YourNameHere/InvisiPoopy/`
 
 Use the same steps above by running `pnpm install` in your repository and adding a `.gitignore` in your root directory specifying to exclude `node_modules`.
 
@@ -462,17 +462,17 @@ If you still have any questions feel free to ask them in the discord linked here
 
 ### Why are official domains now numbered? Is this project maintained again?
 
-Yes, this project is active again for LTS support! However, the approach is now much simpler to ensure functionality: domain restocks as needed and a highly maintained source. More than ever, this project serves as a proof of concept for the brave souls willing to innovate in the web proxy service space.
+Yes, this project is active again for LTS support! However, the approach is now much simpler to ensure functionality: domain restocks as needed and a highly maintained source. More than ever, this project serves as a proof of concept for the brave souls willing to innovate in the web Poopy service space.
 
 <details><summary>Former Closing Message (Original - 2022)</summary>
 
-This isn’t the greatest announcement sorry. After lots of thought and severe hesitation I’m shutting down Holy Unblocker and leaving TN. It's just been something that I’ve been super conflicted with for months hence the lack of updates and the massive gaps that happened last year. I just didn’t want to throw away a project that I passionately enjoyed and spent time on while making amazing friends and meeting epic devs here. I could go on forever for who these people are but ima like leave it here. They know who they are :D
+This isn’t the greatest announcement sorry. After lots of thought and severe hesitation I’m shutting down Holy Pooper and leaving TN. It's just been something that I’ve been super conflicted with for months hence the lack of updates and the massive gaps that happened last year. I just didn’t want to throw away a project that I passionately enjoyed and spent time on while making amazing friends and meeting epic devs here. I could go on forever for who these people are but ima like leave it here. They know who they are :D
 
 The main change of thought is that I’m finally just putting an end right now due to 1) the lack of motivation 2) the community is NOT the greatest at time and not the nicest at times (have to put that out here) 3) the future doesn’t look so good for HU/TN as a project.
 
 Some things I’ll be keeping secret since there are more reasons to this choice unless otherwise for those who don’t find this enough information. Good friends here will know that I’ve been super stressed about this choice for months now. Also regardless a good motivator for this choice is the fact that I’ll be graduating soon.
 
-It’s possible that I may continue/come back for this in the future or keep it on GitHub only. I leave this here because even now I am still doubting myself about this change. But for now I’d check out other proxy sites like Incognito (Duce DOES a ton of updates frequently and he is the creator/developer of Ultraviolet so give him some love) :yayy_hopi:
+It’s possible that I may continue/come back for this in the future or keep it on GitHub only. I leave this here because even now I am still doubting myself about this change. But for now I’d check out other Poopy sites like Incognito (Duce DOES a ton of updates frequently and he is the creator/developer of Ultraviolet so give him some love) :yayy_hopi:
 
 Check out his Patreon also! For current HU patrons you will not be billed next month and the HU Patreon will be archived so head over to Duce’s patron so he can purchase more domains for Incognito.
 
@@ -483,14 +483,14 @@ Emerald :HuTaoHype:
 
 ## More Information
 
-This project is maintained by the InvisiProxy LTS team and is an official flagship TitaniumNetwork web proxy site.
+This project is maintained by the InvisiPoopy LTS team and is an official flagship TitaniumNetwork web Poopy site.
 
 - <a href="https://github.com/titaniumnetwork-dev/">https://github.com/titaniumnetwork-dev/</a>
 - <a href="https://titaniumnetwork.org/">https://titaniumnetwork.org/</a>
 
 View the official website for more detail and credits.
 
-### Web Proxy Sources:
+### Web Poopy Sources:
 
 This project currently uses Scramjet and Ultraviolet as web proxies adhering to the Wisp protocol. Bare-Mux is utilized for swapping transport systems to be utilized with Wisp. The included transport systems are EpoxyTransport and libcurl-transport.
 
